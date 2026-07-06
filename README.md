@@ -1,6 +1,6 @@
 # Hi, I'm Oleksii 
 
-Senior data engineer. Platforms, lakehouse, streaming, and making numbers trustworthy: 8+ years across biotech, finance, and games telemetry. MS in CS (ML/AI) at Georgia Tech, in progress.
+I build platforms, lakehouse, streaming, data analytics. MS in CS (ML/AI) at Georgia Tech, in progress.
 
 ## Open source: Polars
 
