@@ -2,8 +2,6 @@
 
 I build platforms, lakehouse, streaming, data analytics. MS in CS (ML/AI) at Georgia Tech, in progress.
 
-## Open source: Polars
-
 Contributions to the [Polars](https://github.com/pola-rs/polars) query engine (Rust), mostly optimizer, IO, and reliability:
 
 - [#28017](https://github.com/pola-rs/polars/pull/28017) feat: Optimize joins with redundant equi-join keys
