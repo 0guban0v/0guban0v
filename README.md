@@ -16,4 +16,3 @@ All merged PRs: [`author:0guban0v is:merged`](https://github.com/pola-rs/polars/
 ## Projects
 
 - [bayesian-llm-judge-reliability](https://github.com/0guban0v/bayesian-llm-judge-reliability): Bayesian IRT analysis of LLM-as-judge reliability on JudgeBench. Main finding: judge rankings are not stable across item populations.
-- [kryo](https://github.com/0guban0v/kryo): self-hosted MCP server automating agent developer workflows across a kanban board and a git forge.
