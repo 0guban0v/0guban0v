@@ -1,6 +1,6 @@
-# Hi, I'm Oleksii 
+# Hey
 
-I build platforms, lakehouse, streaming, data analytics. MS in CS (ML/AI) at Georgia Tech, in progress.
+I build platforms, lakehouse, streaming, data analytics.
 
 Contributions to the [Polars](https://github.com/pola-rs/polars) query engine (Rust), mostly optimizer, IO, and reliability:
 
