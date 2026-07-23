@@ -3,8 +3,7 @@ I build platforms, lakehouse, streaming, data analytics.
 
 #### Projects
 
-- [bayesian-llm-judge-reliability](https://github.com/0guban0v/bayesian-llm-judge-reliability): Bayesian IRT analysis of LLM-as-judge reliability on JudgeBench. Main finding: judge rankings are not stable across item populations.
-
+- [bayesian-llm-judge-reliability](https://github.com/0guban0v/bayesian-llm-judge-reliability): Bayesian IRT analysis of LLM-as-judge reliability on JudgeBench.
 #### Contributions to the [Polars](https://github.com/pola-rs/polars):
 
 - [#28017](https://github.com/pola-rs/polars/pull/28017) feat: Optimize joins with redundant equi-join keys
