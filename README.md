@@ -1,5 +1,4 @@
 Hey, 
-I build platforms, lakehouse, streaming, data analytics.
 
 #### Projects that I'm working on
 
