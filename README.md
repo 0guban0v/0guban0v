@@ -8,7 +8,3 @@ Hey,
 **Projects that I'm working on**
 
 - [bayesian-llm-judge-reliability](https://github.com/0guban0v/bayesian-llm-judge-reliability): Bayesian IRT analysis of LLM-as-judge reliability on JudgeBench.
-
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
