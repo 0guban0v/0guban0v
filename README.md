@@ -1,9 +1,10 @@
-Hey, 
+Hey,
 
-Projects that I'm working on
+**Projects that I'm working on**
 
 - [bayesian-llm-judge-reliability](https://github.com/0guban0v/bayesian-llm-judge-reliability): Bayesian IRT analysis of LLM-as-judge reliability on JudgeBench.
 
-Contributions to 
-- Polars [Issues](https://github.com/pola-rs/polars/issues/created_by/0guban0v) and [Merged PRs](https://github.com/pola-rs/polars/pulls?q=is%3Apr+author%3A0guban0v+is%3Amerged)
-- Cudf [Issues](https://github.com/NVIDIA/cudf/issues/created_by/0guban0v) and [Merged PRs](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3A0guban0v+is%3Amerged)
+**Contributions to**
+
+- Polars: [issues](https://github.com/pola-rs/polars/issues/created_by/0guban0v) · [merged PRs](https://github.com/pola-rs/polars/pulls?q=is%3Apr+author%3A0guban0v+is%3Amerged)
+- cuDF: [issues](https://github.com/NVIDIA/cudf/issues/created_by/0guban0v) · [merged PRs](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3A0guban0v+is%3Amerged)
